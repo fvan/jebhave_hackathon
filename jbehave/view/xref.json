@@ -1,0 +1,35 @@
+{"xref": {
+  "whenMade": 1355153079893,
+  "createdBy": "JBehave",
+  "metaFilter": "",
+  "meta": [
+  ],
+  "stories": [
+    {
+      "description": "",
+      "narrative": "",
+      "name": "google.story",
+      "path": "stories/google.story",
+      "html": "stories.google.html",
+      "meta": "",
+      "scenarios": "Scenario:\u000aWhen I go to google\u000a\u000a\u000a",
+      "passed": true,
+      "started": 1355153073023,
+      "duration": 6272
+    }
+  ],
+  "stepMatches": [
+    {
+      "type": "WHEN",
+      "annotatedPattern": "I go to google",
+      "resolvedPattern": "I\\s+go\\s+to\\s+google",
+      "usages": [
+        {
+          "story": "stories/google.story",
+          "scenario": "",
+          "step": "When I go to google"
+        }
+      ]
+    }
+  ]
+}}

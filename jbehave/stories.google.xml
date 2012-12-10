@@ -1,0 +1,9 @@
+
+<story path="stories/google.story" title="">
+<scenario keyword="Scenario:" title="">   
+<step outcome="successful">
+When I go to google
+</step>
+</scenario> 
+</story>
+

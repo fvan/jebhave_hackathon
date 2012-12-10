@@ -1,0 +1,6 @@
+
+(stories/google.story)
+Scenario: 
+When I go to google
+
+

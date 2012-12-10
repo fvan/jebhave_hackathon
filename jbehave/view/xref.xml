@@ -1,0 +1,38 @@
+<xref>
+  <whenMade>1355153079893</whenMade>
+  <createdBy>JBehave</createdBy>
+  <metaFilter></metaFilter>
+  <meta/>
+  <stories>
+    <story>
+      <description></description>
+      <narrative></narrative>
+      <name>google.story</name>
+      <path>stories/google.story</path>
+      <html>stories.google.html</html>
+      <meta></meta>
+      <scenarios>Scenario:
+When I go to google
+
+
+</scenarios>
+      <passed>true</passed>
+      <started>1355153073023</started>
+      <duration>6272</duration>
+    </story>
+  </stories>
+  <stepMatches>
+    <stepMatch>
+      <type>WHEN</type>
+      <annotatedPattern>I go to google</annotatedPattern>
+      <resolvedPattern>I\s+go\s+to\s+google</resolvedPattern>
+      <usages>
+        <use>
+          <story>stories/google.story</story>
+          <scenario></scenario>
+          <step>When I go to google</step>
+        </use>
+      </usages>
+    </stepMatch>
+  </stepMatches>
+</xref>
